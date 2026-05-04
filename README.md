@@ -12,8 +12,10 @@ Double tap Turn off/on
 
 A battery charger will be used to elongate the lifespan of the glowing heart.
 
-<img width="1169" height="827" alt="Schematic_hEART-led_2026-04-25" src="https://github.com/user-attachments/assets/a276c443-b345-4dbb-974f-cd8cb8445200" />
-<img width="848" height="489" alt="image" src="https://github.com/user-attachments/assets/586e7bc1-9d1f-42df-894b-d30e09c4065e" />
+<img width="556" height="425" alt="image" src="https://github.com/user-attachments/assets/02c68523-bce5-4556-a3b1-04bba696e894" />
+<img width="304" height="281" alt="image" src="https://github.com/user-attachments/assets/07eab2c8-b7f5-4932-bf15-75538dd5d0e6" />
+<img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/9eddc347-0bfe-4d0e-83e2-44dd8d881c1e" />
+
 1	COPPER3.5X10	+1,-1	SMD_L10.0-W3.5	2	COPPER3.5X10	null	LCSC	C9900023671	
 2	1000uF	C2	SARAWUT_C1000UF	1	KM108M050J25RR0VH2FP0	CX(承兴)	LCSC	C18104	0.235
 3	THREE PIN PINHEADER	LED1,TP1	THREE PIN PINHEADER	2					
