@@ -1,8 +1,19 @@
 <img width="815" height="645" alt="PCB_PCB_hEART-led_2026-04-25" src="https://github.com/user-attachments/assets/799bac85-8bb0-4857-a478-01887537cf2d" />
-A handmade geometric heart-shaped frame with hidden WS2812B LED strips controlled by an ESP32-C3 Mini. An RC522 RFID reader acts as a lock — the touch sensor is completely disabled until the correct key fob is scanned. Once unlocked, the LEDs flow on one by one with a smooth water-like fade effect, then dim to darkness leaving a single glowing LED as an invitation. When touched, the whole heart flows back on and breathes gently forever. Powered by a 2S Li-ion battery with an MP1584 buck converter, the ESP32 sits in deep sleep when idle — waking only when the key fob is detected via the RFID IRQ pin. 🌹
+This is a project of mine inspired by my desire to explore the electronics world and my passion for it.  I am 17 years old and I  designed the system myself.This project entitled 'The Glowing Heart' is done to hopefuly surprise my partner on her birthday. I plan to make it as heartwarming as possible, by including two LED strips ina shape of a heart that can b controlled by a microcontroller(esp32 c3 mini), adding rfid module, touch sensor, 2s li ion battery pack, and a charger module. Now the system is  designed and coded in  such a way that the rfid card will  wake the esp32 c3 mini  from its deep  sleep(to conserve power, potentially it can last for more than 6 months) and the led strips will light up once like a wave. Then one led from the strips are left glowing, hinting the touch sensor. The system will have five modes,one touch will activate the next and so on until it reaches off(5th function). A LCD Display anda speaker will   be added to  increase the volume of the design, the LCD will  display the steps needed for the flow and a short heartbounded message will  appear once activated.  The speaker will  be the one to add emotiional depth too the scene.
+1 tap Cycle to next color
+
+2 taps Cycle to previous color
+
+3 tapsChange LED effect
+
+Hold (2sec) Dim/brighten toggle
+
+Double tap Turn off/on
+
+A battery charger will be used to elongate the lifespan of the glowing heart.
+
 <img width="1169" height="827" alt="Schematic_hEART-led_2026-04-25" src="https://github.com/user-attachments/assets/a276c443-b345-4dbb-974f-cd8cb8445200" />
 <img width="848" height="489" alt="image" src="https://github.com/user-attachments/assets/586e7bc1-9d1f-42df-894b-d30e09c4065e" />
-Im planning to conduct this design to hopefully contribute to the scientific community and surprise my partner on her birthday
 1	COPPER3.5X10	+1,-1	SMD_L10.0-W3.5	2	COPPER3.5X10	null	LCSC	C9900023671	
 2	1000uF	C2	SARAWUT_C1000UF	1	KM108M050J25RR0VH2FP0	CX(承兴)	LCSC	C18104	0.235
 3	THREE PIN PINHEADER	LED1,TP1	THREE PIN PINHEADER	2					
