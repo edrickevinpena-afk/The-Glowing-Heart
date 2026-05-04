@@ -16,12 +16,6 @@ A battery charger will be used to elongate the lifespan of the glowing heart.
 <img width="304" height="281" alt="image" src="https://github.com/user-attachments/assets/07eab2c8-b7f5-4932-bf15-75538dd5d0e6" />
 <img width="612" height="485" alt="image" src="https://github.com/user-attachments/assets/9eddc347-0bfe-4d0e-83e2-44dd8d881c1e" />
 
-1	COPPER3.5X10	+1,-1	SMD_L10.0-W3.5	2	COPPER3.5X10	null	LCSC	C9900023671	
-2	1000uF	C2	SARAWUT_C1000UF	1	KM108M050J25RR0VH2FP0	CX(承兴)	LCSC	C18104	0.235
-3	THREE PIN PINHEADER	LED1,TP1	THREE PIN PINHEADER	2					
-4	ResistorToday	R1	FIXED RESISTOR	1	EWWR0001J20R0T9	ResistorToday	LCSC	X16151710	
-5	RC522 COPY	RFID1	RFID-RC522	1					
-6	JST PH2	U6	JST-PH-JST-PH2	1					
-7	ESP32C3-SuperMini	U8	ESP32-C3_SUPERMINI:MODULE_ESP32-C3_SUPERMINI	1	ESP32C3-SuperMini		LCSC	C9900147397	
-8	DC-DC-STEP-DOWN-MP1584	1	DC-DC-STEP-DOWN-MP1584	1					
-<img width="641" height="161" alt="image" src="https://github.com/user-attachments/assets/514d3b04-9903-4624-b18c-7f2f0e5a1f85" />
+
+<img width="794" height="281" alt="image" src="https://github.com/user-attachments/assets/81eba147-2f83-442c-807a-bef4d2c3475e" />
+
